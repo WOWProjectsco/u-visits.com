@@ -163,3 +163,7 @@ a {
 .ico-clock:before {
   content: "";
 }
+.logo-u-visits{
+  width: 150px;
+  height: 150px;
+}
