@@ -164,6 +164,16 @@ a {
   content: "";
 }
 .logo-u-visits{
-  width: 150px;
-  height: 150px;
+  width: 170px;
+  height: 170px;
+  display: block;
+  margin: auto;
+
+}
+.large-4.columns.contact-box-cntr{
+  width: 33%;
+  display: inline-block;
+}
+.contact-box{
+  height: 140px
 }
