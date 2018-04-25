@@ -177,3 +177,8 @@ a {
 .contact-box{
   height: 140px
 }
+.social{
+  display: block;
+  text-align: center;
+  margin: 7%;
+}
