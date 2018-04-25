@@ -182,3 +182,10 @@ a {
   text-align: center;
   margin: 7%;
 }
+
+@media (max-width: 600px) {
+    .large-4.columns.contact-box-cntr {
+         width: 100%;
+         display: block;
+         }
+}
