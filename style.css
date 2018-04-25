@@ -189,3 +189,18 @@ a {
          display: block;
          }
 }
+
+@media (max-width: 600px) {
+    .logo-u-visits {
+         display: block;
+         margin: auto;
+         }
+}
+
+@media (max-width: 600px) {
+    .logo-u-visits {
+        display: block;
+        text-align: center;
+         }
+}
+
